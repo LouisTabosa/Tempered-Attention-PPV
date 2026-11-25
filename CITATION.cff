@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code, please cite the article below.
+type: software
+license: MIT
+title: >-
+  Code and results: Tempered attention as an aggregation law for peak
+  particle velocity in multi-delay blasts
+authors:
+  - family-names: de Figueiredo
+    given-names: José J. S.
+  - family-names: Tabosa
+    given-names: Louis D. G.
+    email: louis.tabosa@unifesspa.edu.br
+  - family-names: Martins
+    given-names: Saulo S.
+preferred-citation:
+  type: article
+  title: >-
+    Tempered attention as an aggregation law for peak particle velocity
+    in multi-delay blasts
+  authors:
+    - family-names: de Figueiredo
+      given-names: José J. S.
+    - family-names: Tabosa
+      given-names: Louis D. G.
+    - family-names: Martins
+      given-names: Saulo S.
+  journal: IEEE Access
+  year: 2026
+  notes: submitted

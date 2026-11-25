@@ -1,0 +1,74 @@
+{
+ "law": {
+  "lnK": 5.643591806287791,
+  "beta": 1.602403888115989,
+  "n": 80
+ },
+ "tau_global": 0.22479116286828676,
+ "metrics": {
+  "D>=30 m (n=16)": {
+   "Site law, W per delay (usual USBM)": {
+    "EF": 1.71,
+    "RMSE": 0.65,
+    "bias": -0.5
+   },
+   "Site law, total W": {
+    "EF": 4.17,
+    "RMSE": 1.51,
+    "bias": 1.44
+   },
+   "Site law + attention (tau, LOBO)": {
+    "EF": 1.32,
+    "RMSE": 0.44,
+    "bias": 0.01
+   },
+   "Signature hole at station, W per delay": {
+    "EF": 1.66,
+    "RMSE": 0.67,
+    "bias": -0.55
+   },
+   "Signature hole at station, total W": {
+    "EF": 4.05,
+    "RMSE": 1.47,
+    "bias": 1.39
+   },
+   "Signature hole + attention (tau, LOBO)": {
+    "EF": 1.26,
+    "RMSE": 0.39,
+    "bias": -0.0
+   }
+  },
+  "all (n=20)": {
+   "Site law, W per delay (usual USBM)": {
+    "EF": 1.51,
+    "RMSE": 0.58,
+    "bias": -0.42
+   },
+   "Site law, total W": {
+    "EF": 4.56,
+    "RMSE": 1.64,
+    "bias": 1.56
+   },
+   "Site law + attention (tau, LOBO)": {
+    "EF": 1.36,
+    "RMSE": 0.45,
+    "bias": 0.09
+   },
+   "Signature hole at station, W per delay": {
+    "EF": 1.66,
+    "RMSE": 0.64,
+    "bias": -0.51
+   },
+   "Signature hole at station, total W": {
+    "EF": 4.16,
+    "RMSE": 1.55,
+    "bias": 1.48
+   },
+   "Signature hole + attention (tau, LOBO)": {
+    "EF": 1.26,
+    "RMSE": 0.41,
+    "bias": 0.05
+   }
+  }
+ }
+}
